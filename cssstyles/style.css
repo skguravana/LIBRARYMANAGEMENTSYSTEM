@@ -1,0 +1,24 @@
+.formbox{
+    max-width: 500px;
+    border: 2px solid transparent; 
+    box-shadow: 0 0 10px #6c95ec; 
+    margin-bottom:50px;
+}
+nav{
+    border-bottom:2px solid;
+    margin-bottom:10px;
+}
+.nav-item{
+    border:1px solid;
+    box-shadow:5px 5px 5px #ccc;
+}
+.nav-item:hover{
+    box-shadow:5px 5px 5px #727171;    
+}
+.listitem{
+    border:2px solid ;
+    margin: 20px;
+}
+
+
+
